@@ -12,7 +12,7 @@ Usage Detailed
 ==============
 1. Read "What You Get" below to ensure this is what you want to set for your "Default Settings" profile in PuTTY.
 2. (OPTIONAL, most modern Linux distros have this): Test your intended destination systems for the putty-256color terminal definition by running ```infocmp putty-256color```. If you don't see a bunch of crazy terminal definition stuff spit to your screen, you don't have the putty-256color terminfo data. Figure out why and fix it if you care to continue.
-2. Download the .reg file (review it in a text editor for your own security conscience)
+2. Download the .reg file based on whether you want Dark or Light (review it in a text editor for your own security conscience)
 3. Double-click on it to set the settings in the Windows registry, then use PuTTY to change anything you don't like.
 4. Make new host-specific PuTTY profiles from within PuTTY (they will inherit your Default Settings).
 5. If you get stuck in any way, go read the blog posts from Tom and Dag in the "Thanks" section of this README.
@@ -21,12 +21,12 @@ What You Get
 ============
 All of the following are applied to the standard "Default Settings" PuTTY profile. See Usage for more information on getting the settings applied to your existing profiles.
 
-* Colors set to Solarized Dark
+* Colors set to Solarized Dark or Light, depending on your choice
 * Default terminal type: putty-256color
-* Default scrollback buffer: 2000
+* Default scrollback buffer: 10000
 * Remote character set: UTF-8
 * Default font: Lucida Console, 12pt
-* Window size: 80x40
+* Window size: 130x50
 * Font quality: ClearType
 * Action of mouse buttons: "Compromise", Middle Extends Right Pastes
 * Seconds between keepalives: 59
