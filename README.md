@@ -1,7 +1,7 @@
 Solarized Modern PuTTY Defaults
 ===============================
 
-A Windows registry (.reg) file for setting the "Default Settings" PuTTY profile to [Solarized Dark PuTTY coloring](https://github.com/altercation/solarized) and most [modern sane PuTTY default settings](http://blog.sanctum.geek.nz/putty-configuration/) that most would want.
+A Windows registry (.reg) file for setting the "Default Settings" PuTTY profile to [Solarized Dark or Light PuTTY coloring](https://github.com/altercation/solarized) and most [modern sane PuTTY default settings](http://blog.sanctum.geek.nz/putty-configuration/) that most would want.
 
 Originally found at https://github.com/jblaine/solarized-and-modern-putty
 
