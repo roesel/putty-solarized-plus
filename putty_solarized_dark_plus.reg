@@ -6,7 +6,7 @@ Windows Registry Editor Version 5.00
 "Colour2"="0,43,54";         base03     Default Background
 "Colour3"="7,54,66";         base02     Default Bold Background
 "Colour4"="0,43,54";         base03     Cursor Text
-"Colour5"="238,232,213";     base2      Cursor Colour
+"Colour5"="131,148,150";     base0      Cursor Colour
 "Colour6"="7,54,66";         base02     ANSI Black
 "Colour7"="0,43,54";         base03     ANSI Black Bold
 "Colour8"="220,50,47";       red        ANSI Red
