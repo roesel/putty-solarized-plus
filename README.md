@@ -30,7 +30,7 @@ All of the following are applied to the standard "Default Settings" PuTTY profil
 * Default font: Lucida Console, 12pt
 * Window size: 130x50
 * Font quality: ClearType
-* Action of mouse buttons: "Compromise", Middle Extends Right Pastes
+* Action of mouse buttons: "xterm", Right extends Middle pastes
 * Seconds between keepalives: 59
 * SSH: version 2 only
 * Hide mouse pointer when typing in window: On
